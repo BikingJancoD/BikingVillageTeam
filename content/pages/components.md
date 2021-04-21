@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Nuestro Equipo
-featuredImage: https://ucarecdn.com/cd1af045-2efd-4f6c-98ba-bec4a3a264ed/
+featuredImage: https://ucarecdn.com/cd1af045-2efd-4f6c-98ba-bec4a3a264ed/-/crop/1440x639/0,58/-/preview/
 subtitle: Talento de la Tierra
 section1: >-
   ## **Talento de la Tierra**
