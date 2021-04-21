@@ -1,16 +1,14 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Nuestro Equipo
+featuredImage: https://ucarecdn.com/cd1af045-2efd-4f6c-98ba-bec4a3a264ed/
+subtitle: Talento de la Tierra
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## **Talento de la Tierra**
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  Somos un equipo de Mountain Bike con base en la provincia de Ubaté y que reúne a algunos de los mejores corredores del mountain bike, de carácter formativo. #talentodelatierra ⛰🏅
 section2: >-
   ## You can use videos, images and text.
 
@@ -29,16 +27,16 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
-  - alt: umbrellas
-    image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
-    title: Yellow Ice Cream
+  - alt: Ana Roa
+    image: https://ucarecdn.com/0fd82e42-fba1-4349-a22e-e067eea8c4dd/
+    title: Ana Roa
+  - alt: Angelica Aldana
+    image: https://ucarecdn.com/10e0409d-e1e9-451d-a331-8bfddf8eaba5/
+    title: Angelica Aldana
+  - alt: Julian
+    image: https://ucarecdn.com/d3f57ac9-5c9f-4cd4-bc59-e8fd3b520133/
+    title: Julian
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: Talento de la tierra
+  title: Nuestro Equipo
 ---
