@@ -12,3 +12,5 @@ meta:
   description: "Uniforme 2021 "
 ---
 Esta será nuestra segunda piel durante la temporada 2021 diseñada por el querido **[@creativocp](https://www.instagram.com/creativocp/)** y confeccionada por los mejores: **[@openbikecycling](https://www.instagram.com/openbikecycling/)**
+
+![Segunda piel](https://ucarecdn.com/9e79b242-0831-47ae-a770-1bc0292b4346/ "Segunda piel")
